@@ -1,8 +1,8 @@
 import telebot
 import requests
 
-BOT_TOKEN = "8584185814:AAFh2U2gYAIIyt6o22Wp5LDw6MQD4axTvbo"
-WEATHER_API_KEY = "387023c9f77ca02d356f88d92f80195b"
+BOT_TOKEN = "Enter bot's API_KEY from Bot Father"
+WEATHER_API_KEY = "Take API)KEY from the site"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
